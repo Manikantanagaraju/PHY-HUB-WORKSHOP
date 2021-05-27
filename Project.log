@@ -1,0 +1,98 @@
+Multi-OEM/Retail Project Version : 180226-R84.0 - BaseLine  [MRP via MDL Forum ONLY] 
+ 
+Required project files extracted successfully. 
+ 
+OEM's folder detected, structure appears OK. 
+ 
+No Config File Detected - Using Default Settings. 
+ 
+MRP Logging Mode              : Standard 
+Show 'My Computer' On Desktop : Disabled 
+ 
+OS Installation Date/Time     : 12/04/2020 {UTC} -- 10:20pm 
+ 
+[OSINF] =======================  
+[OSINF] Detected OS Information  
+[OSINF] =======================  
+[OSINF] Version {Registry}    : Windows 7 Ultimate - Service Pack 1 
+[OSINF] Version {SKU}         : Ultimate {1} 
+[OSINF] Edition {Registry}    : Ultimate {1} 
+[OSINF] Edition {CBS}         : Ultimate 
+[OSINF] Architecture          : 64 Bits 
+[OSINF] Build Information     : 7601.24231.amd64fre.win7sp1_ldr.180810-0600 
+[OSINF] Edition Language/Code : en-US / 1033 {409h} 
+[OSINF] Locale                : en-IN 
+[OSINF] Language Name Value   : ENN 
+[OSINF] =======================  
+ 
+[MBINF] ======================= 
+[MBINF] Motherboard Information 
+[MBINF] ======================= 
+[MBINF] #01 CS Product Name   : [Aspire E1-531] 
+[MBINF] #02 CS Model Name     : [Aspire E1-531] 
+[MBINF] #04 CS Vendor Name    : [Acer] 
+[MBINF] #05 CS System Name    : [Acer] 
+[MBINF] #06 Baseboard Name    : [Acer] 
+[MBINF] #08 BIOS or SLIC ID   : [ACRSYS - 1] 
+[MBINF] #09 SLIC Information  : [255.255] 
+[MBINF] #11 MSDM Information  : [No MSDM Table Present] 
+[MBINF] ======================= 
+ 
+[CMINF] ======================= 
+[CMINF] CPU/Memory  Information 
+[CMINF] ======================= 
+[CMINF] CPU Name/Type         : [Intel{R} Pentium{R} CPU B960 @ 2.20GHz] 
+[CMINF] CPU Description       : [Intel64 Family 6 Model 42 Stepping 7] 
+[CMINF] CPU Architecture      : [32/64 Bit Instruction Set] 
+[CMINF] CPU Cores/Threads     : [2] / [2] 
+[CMINF] Total Physical Memory : [3912 Mb] 
+[CMINF] Available Memory      : [3426 Mb] 
+[CMINF] ======================= 
+ 
+[HDTYP] Info: HDD Detected. 
+ 
+[SATOU] List user options enabled or applied... 
+[PKEIC] The PID.txt file was not detected. 
+[PKEIC] The ei.cfg file was not detected. 
+[CKDMI] Querying BIOS for any manufacturer brand information. 
+[DSLIC] Detecting any SLIC information. 
+[SCKV7] Acer [#08] SLIC manufacturer found for possible Windows 7 OEM activation. 
+[THMOK] Acer [#04] manufacturer detected for automated theme/branding. 
+[KEYOK] Acer OEM-SLP Product Key found and applied. 
+[XRMOK] Acer {C2} XRM-MS OEM Certificate will be applied. 
+[OEASC] OEM activation subroutine created. 
+[OASHC] OEM activation subroutine has completed. 
+[CHKMN] Computer Model Name: 'Aspire E1-531' has been applied. 
+[USRFT] CustomTheme option was not used. 
+[X64RF] Registry fix for x64 theme applied. 
+[WPCHK] Wallpaper.jpg transferred. 
+[BGDFC] Desktop backgrounds folder created. 
+[BGDFC] BackgroundDefault.jpg created from Wallpaper.jpg. 
+[UBREP] User.bmp replaced. 
+[OTFTS] OEM theme folder has been created. 
+[OTFTS] OEM files have been transferred. 
+[ATHBA] Acer OEM theme has been applied.  
+[BSHCS] Branding script has completed. 
+ 
+[ADMAN] Add-On Manager: Started. 
+[AMBPS] BIOS/Boot Mode  : Legacy  
+[AMBPS] Partition Type  : MBR 
+[AMHDC] Controller Mode : AHCI 
+[CHKLS] License Status: Out-of-Box Grace 
+[OSLRC] License Status Reason Code: 0x4004F00C 
+[OSLRT] This computer is in 'Out-Of-Box' Grace allowance. 
+[CHKLS] System reboot maybe required to complete activation. 
+[ADMAN] Add-On Manager: Completed. 
+[CLNUP] MRP Clean Up Routine Processed. 
+ 
+========================================================================================= 
+= Please Note: It is advisable to logout or reboot your computer when possible to       = 
+=              allow the Windows OS installed to finalize any settings.                 = 
+=                                                                                       = 
+=              If you have used any tweak options within the configuration file then    = 
+=              it is required to do a log out or reboot cycle to allow these options    = 
+=              to take effect.                                                          = 
+========================================================================================= 
+ 
+The Multi-OEM/Retail Project has completed.
+
